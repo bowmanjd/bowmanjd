@@ -21,7 +21,6 @@ Rust, Go
 
 ### Reach out to me
 
-- ![Email me](assets/email.svg)
 - [New Blog](https://bowmanjd.com)
 - [Old Blog](https://dev.to/bowmanjd/)
 - [LinkedIn](linkedin.com/in/jonathan-d-bowman)
