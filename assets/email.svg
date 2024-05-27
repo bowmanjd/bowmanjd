@@ -1,12 +1,20 @@
-<svg viewBox="0 0 200 24" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" fill="currentColor">
+<svg viewBox="0 0 100 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
 <title>Email Jonathan Bowman</title>
 <style>
   text {
     font-size: 16px;
+    fill: #23281f;
   }
   tspan {
     display:none;
   }
+  @media(prefers-color-scheme:dark) {
+    text {
+      fill: #9ab;
+    }
+  }
+
+ <style>path{fill:#333}@media(prefers-color-scheme:dark){path{fill: #ccc}}</style>
 </style>
 <text x="50%" y="50%" text-anchor="middle">jonat<tspan>obfus</tspan>han@bowm<tspan>cate</tspan>anjd.com</text>
 </svg>
