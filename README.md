@@ -1,16 +1,29 @@
-## Hi there 👋
+## Welcome 👋 My name is Jonathan Bowman
 
-<!--
-**bowmanjd/bowmanjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Coding Enthusiast, Command-line jockey, Data Whisperer
 
-Here are some ideas to get you started:
+### I like machines and code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL for data manipulation,
+Python for data transformation and web development,
+Linux system administration,
+Bash scripting,
+Powershell,
+General web development (front end or backend)
+
+### I like people
+
+Public speaking and training, client interactions, introducing myself to strangers
+
+### Currently Learning
+
+Rust, Go
+
+### Reach out to me
+
+- ![Email me](assets/email.svg)
+- [New Blog](https://bowmanjd.com)
+- [Old Blog](https://dev.to/bowmanjd/)
+- [LinkedIn](linkedin.com/in/jonathan-d-bowman)
+- [fosstodon.org/@bowmanjd](https://fosstodon.org/@bowmanjd)
+- [Twitter/X](https://x.com/jdbowman)
