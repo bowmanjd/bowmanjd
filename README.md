@@ -17,7 +17,7 @@ Public speaking and training, client interactions, introducing myself to strange
 
 ### Currently Learning
 
-Rust, Go
+Rust, Go, and how to engage Language Models without getting drunk on the hype
 
 ### Reach out to me
 
